@@ -1,0 +1,8 @@
+com\onlyfy\music_category_service\exception\GlobalExceptionHandler.class
+com\onlyfy\music_category_service\MusicCategoryServiceApplication.class
+com\onlyfy\music_category_service\model\MusicCategory.class
+com\onlyfy\music_category_service\controller\MusicCategoryController.class
+com\onlyfy\music_category_service\service\MusicCategoryService.class
+com\onlyfy\music_category_service\dto\MusicCategoryRequestDTO.class
+com\onlyfy\music_category_service\repository\MusicCategoryRepository.class
+com\onlyfy\music_category_service\dto\MusicCategoryResponseDTO.class

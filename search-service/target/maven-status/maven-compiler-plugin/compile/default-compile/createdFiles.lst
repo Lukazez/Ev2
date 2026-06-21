@@ -1,0 +1,10 @@
+com\onlyfy\search_service\exception\GlobalExceptionHandler.class
+com\onlyfy\search_service\SearchServiceApplication.class
+com\onlyfy\search_service\dto\SearchRequestDTO.class
+com\onlyfy\search_service\model\SearchRecord.class
+com\onlyfy\search_service\dto\MusicCategoryResponseDTO.class
+com\onlyfy\search_service\client\MusicCategoryClient.class
+com\onlyfy\search_service\service\SearchService.class
+com\onlyfy\search_service\controller\SearchController.class
+com\onlyfy\search_service\repository\SearchRepository.class
+com\onlyfy\search_service\dto\SearchResponseDTO.class

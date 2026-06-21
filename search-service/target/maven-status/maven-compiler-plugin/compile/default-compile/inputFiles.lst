@@ -1,0 +1,10 @@
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\dto\SearchRequestDTO.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\exception\GlobalExceptionHandler.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\client\MusicCategoryClient.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\dto\MusicCategoryResponseDTO.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\service\SearchService.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\controller\SearchController.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\repository\SearchRepository.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\dto\SearchResponseDTO.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\model\SearchRecord.java
+C:\Users\lukas\Downloads\fullstack\search-service\src\main\java\com\onlyfy\search_service\SearchServiceApplication.java
